@@ -1,3 +1,5 @@
+
+package src;
 public class Proceso {
     int id;
     int tiempoEjecucion;
